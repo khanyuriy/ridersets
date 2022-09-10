@@ -1,0 +1,101 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="stg - fbs-orders-processing@stgpostgres520-41962z501.h.o3.ru" uuid="37010179-78d6-46b0-8890-d5c2681a804f">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://stgpostgres520-41962z501.h.o3.ru:6532/fbs-orders-processing</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="stg - fobos@stgpostgres400-41962z501.h.o3.ru" uuid="7d95577b-8d20-4c34-967f-5632e0530ccb">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://stgpostgres400-41962z501.h.o3.ru:6532/fobos</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="stg - capacity-utilization-service@stgpostgres386-55626z503.h.o3.ru" uuid="1fd77483-dee9-4a85-9d13-7639f9d4789f">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://stgpostgres386-55626z503.h.o3.ru:6532/fbs-capacity-utilization-service</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="prod - capacity-utilization-service@prodpostgres400-41962z501.h.o3.ru" uuid="f0c0029f-e4ae-4df9-9a85-bbba39a0c84f">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://prodpostgres290-32811z501.h.o3.ru:6532/fbs-capacity-utilization-service</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="lozon@stg" uuid="e5a905d1-72b4-4d40-9a21-c157da89678b">
+      <driver-ref>sqlserver.jtds</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>net.sourceforge.jtds.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:jtds:sqlserver://lms-stg.o3.ru/Lozon</jdbc-url>
+      <jdbc-additional-properties>
+        <property name="DOMAIN" value="OZON" />
+      </jdbc-additional-properties>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="stg - dvs@stgpostgres999-41978z501.h.o3.ru" uuid="a84e31d5-c418-4700-8fb3-85777150c617">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://stgpostgres999-41978z501.h.o3.ru:6532/fbs-dvs-service</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="prod - dvs@prodpostgres1366-35443z502.h.o3.ru" uuid="1bac6d5e-14d0-4a04-9ee3-775787fe7563">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://prodpostgres1366-35443z502.h.o3.ru:6532/fbs-dvs-service</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="prod - fobos@prodpostgres299-35416z502.h.o3.ru" uuid="4275f7a9-42cb-41e4-8967-7dc2a5bac0c6">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://prodpostgres299-35416z502.h.o3.ru:6532/fobos</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="prod - ops@prodpostgres299-35416z502.h.o3.ru [2]" uuid="110f18e3-d456-4d77-9260-071b5ce62846">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://prodpostgres292-14916z23.h.o3.ru:6532/fbs-orders-processing</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="lozon@prod-ro" uuid="baddf68e-25e3-4d2e-89ee-b661c4b84141">
+      <driver-ref>sqlserver.jtds</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>net.sourceforge.jtds.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:jtds:sqlserver://lms-ro.o3.ru/Lozon</jdbc-url>
+      <jdbc-additional-properties>
+        <property name="DOMAIN" value="ozon" />
+      </jdbc-additional-properties>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="prod - fbs-documents@prodpostgres7081-35443z502.h.o3.ru" uuid="bb8ea7ab-2f40-430f-97e6-9d9380095064">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://prodpostgres7081-35443z502.h.o3.ru:6532/fbs-documents</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="prod - fbs-mobile@prodpostgres291-17838z23.h.o3.ru" uuid="333c9c79-84aa-48c0-aff8-1da176f479ba">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://prodpostgres291-17838z23.h.o3.ru:6532/fbs-mobile</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="prod - fbs-tariffication-service@prodpostgres948-32813z501.h.o3.ru" uuid="87d498d2-3da5-495c-984a-509ed0eaed94">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://prodpostgres948-32813z501.h.o3.ru:6532/fbs-tariffication-service</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</application>
