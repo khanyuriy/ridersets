@@ -14,11 +14,11 @@
       <jdbc-url>jdbc:postgresql://stgpostgres400-41962z501.h.o3.ru:6532/fobos</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="stg - capacity-utilization-service@stgpostgres386-55626z503.h.o3.ru" uuid="1fd77483-dee9-4a85-9d13-7639f9d4789f">
+    <data-source source="LOCAL" name="stg - capacity-utilization-service@stgpostgres386-41960z501.h.o3.ru" uuid="1fd77483-dee9-4a85-9d13-7639f9d4789f">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://stgpostgres386-55626z503.h.o3.ru:6532/fbs-capacity-utilization-service</jdbc-url>
+      <jdbc-url>jdbc:postgresql://stgpostgres386-41960z501.h.o3.ru:6532/fbs-capacity-utilization-service</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
     <data-source source="LOCAL" name="prod - capacity-utilization-service@prodpostgres400-41962z501.h.o3.ru" uuid="f0c0029f-e4ae-4df9-9a85-bbba39a0c84f">
