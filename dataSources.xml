@@ -97,5 +97,12 @@
       <jdbc-url>jdbc:postgresql://prodpostgres948-32813z501.h.o3.ru:6532/fbs-tariffication-service</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="stg - fbs-notification-service" uuid="d549582a-7d39-41ae-9262-15211041734a">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://stgpostgres9425-45775z501.h.o3.ru:6532/fbs-notification-service</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </application>
