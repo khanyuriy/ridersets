@@ -158,6 +158,10 @@
           <option name="url" value="git@gitlab.ozon.ru:azotkin/immobilizer.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.ozon.ru:lms/csharp/fbs/fbs-notification-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/code" />
