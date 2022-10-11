@@ -7,7 +7,7 @@
       <jdbc-url>jdbc:postgresql://stgpostgres520-41962z501.h.o3.ru:6532/fbs-orders-processing</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="stg - fobos@stgpostgres400-41962z501.h.o3.ru" uuid="7d95577b-8d20-4c34-967f-5632e0530ccb">
+    <data-source source="LOCAL" name="stg - fobos" uuid="7d95577b-8d20-4c34-967f-5632e0530ccb">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
