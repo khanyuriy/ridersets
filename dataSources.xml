@@ -38,7 +38,7 @@
       </jdbc-additional-properties>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="stg - dvs@stgpostgres999-41978z501.h.o3.ru" uuid="a84e31d5-c418-4700-8fb3-85777150c617">
+    <data-source source="LOCAL" name="stg - dvs" uuid="a84e31d5-c418-4700-8fb3-85777150c617">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
