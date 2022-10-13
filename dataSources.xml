@@ -1,6 +1,6 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="stg - fbs-orders-processing" uuid="37010179-78d6-46b0-8890-d5c2681a804f">
+    <data-source source="LOCAL" name="stg - fbs-orders-processing-service" uuid="37010179-78d6-46b0-8890-d5c2681a804f">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
