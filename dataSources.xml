@@ -45,7 +45,7 @@
       <jdbc-url>jdbc:postgresql://stgpostgres999-41978z501.h.o3.ru:6532/fbs-dvs-service</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="prod - dvs@prodpostgres1366-35443z502.h.o3.ru" uuid="1bac6d5e-14d0-4a04-9ee3-775787fe7563">
+    <data-source source="LOCAL" name="prod - dvs" uuid="1bac6d5e-14d0-4a04-9ee3-775787fe7563">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
