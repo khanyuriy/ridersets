@@ -90,7 +90,7 @@
       <jdbc-url>jdbc:postgresql://prodpostgres291-55911z503.h.o3.ru:6532/fbs-mobile</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="prod - fbs-tariffication-service@prodpostgres948-32813z501.h.o3.ru" uuid="87d498d2-3da5-495c-984a-509ed0eaed94">
+    <data-source source="LOCAL" name="prod - fbs-tariffication-service" uuid="87d498d2-3da5-495c-984a-509ed0eaed94">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
@@ -102,6 +102,13 @@
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://stgpostgres9425-45775z501.h.o3.ru:6532/fbs-notification-service</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="prod - fbs-notification-service" uuid="5c42191d-6a37-45fc-a7d1-dfd6347690c8">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://prodpostgres9424-55472z503.h.o3.ru:6532/fbs-notification-service</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>
