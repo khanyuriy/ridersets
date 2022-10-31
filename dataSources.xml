@@ -83,7 +83,7 @@
       <jdbc-url>jdbc:postgresql://prodpostgres7081-35443z502.h.o3.ru:6532/fbs-documents</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="prod - fbs-mobile@prodpostgres291-55911z503.h.o3.ru" uuid="333c9c79-84aa-48c0-aff8-1da176f479ba">
+    <data-source source="LOCAL" name="prod - fbs-mobile" uuid="333c9c79-84aa-48c0-aff8-1da176f479ba">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
