@@ -76,7 +76,7 @@
       </jdbc-additional-properties>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="prod - fbs-documents@prodpostgres7081-35443z502.h.o3.ru" uuid="bb8ea7ab-2f40-430f-97e6-9d9380095064">
+    <data-source source="LOCAL" name="prod - fbs-documents" uuid="bb8ea7ab-2f40-430f-97e6-9d9380095064">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
