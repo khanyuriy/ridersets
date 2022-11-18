@@ -162,6 +162,10 @@
           <option name="url" value="git@gitlab.ozon.ru:lms/csharp/fbs/fbs-notification-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.ozon.ru:lms/csharp/api/fbs-mobile.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/code" />
