@@ -1,0 +1,18 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="showResultsInSeparateView" value="true" />
+    <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
+    <option name="SEARCH_SCOPE" value="Solution" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.json</mask>
+    <mask>*.sql</mask>
+    <mask>*Repository.cs</mask>
+    <mask>*.cs</mask>
+    <mask>*.proto</mask>
+    <mask>*.csproj</mask>
+  </component>
+</application>
